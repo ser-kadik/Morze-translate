@@ -1,0 +1,10 @@
+I:\Мои работы\Итоговая работа\Морзе\Морзе\bin\Debug\Морзе.exe.config
+I:\Мои работы\Итоговая работа\Морзе\Морзе\bin\Debug\Морзе.exe
+I:\Мои работы\Итоговая работа\Морзе\Морзе\bin\Debug\Морзе.pdb
+I:\Мои работы\Итоговая работа\Морзе\Морзе\obj\Debug\Морзе.csproj.AssemblyReference.cache
+I:\Мои работы\Итоговая работа\Морзе\Морзе\obj\Debug\Морзе.Form1.resources
+I:\Мои работы\Итоговая работа\Морзе\Морзе\obj\Debug\Морзе.Properties.Resources.resources
+I:\Мои работы\Итоговая работа\Морзе\Морзе\obj\Debug\Морзе.csproj.GenerateResource.cache
+I:\Мои работы\Итоговая работа\Морзе\Морзе\obj\Debug\Морзе.csproj.CoreCompileInputs.cache
+I:\Мои работы\Итоговая работа\Морзе\Морзе\obj\Debug\Морзе.exe
+I:\Мои работы\Итоговая работа\Морзе\Морзе\obj\Debug\Морзе.pdb
